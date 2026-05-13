@@ -16,7 +16,7 @@ This project builds a complete, end-to-end supervised machine learning pipeline 
 |---|---|
 | **Problem Type** | Binary Classification |
 | **Target Variable** | `Outcome` — `1` = Diabetes, `0` = No Diabetes |
-| **Dataset** | Pima Indians Diabetes Database (UCI ML Repository) |
+| **Dataset** | Pima Indians Diabetes Database (UCI ML Repository)(https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv) |
 | **Data Source** | [archive.ics.uci.edu/dataset/34/diabetes](https://archive.ics.uci.edu/dataset/34/diabetes) |
 | **Rows / Features** | 768 records × 8 clinical features |
 | **Best Model** | Tuned Gradient Boosting / Random Forest |
