@@ -313,19 +313,7 @@ Interprets the model's outputs through a clinical and business lens, identifying
 
 ---
 
-### Step 8 — GitHub Upload
 
-**What it does:**
-A final code cell uploads the `.ipynb` file to this GitHub repository using the GitHub REST API (`PUT /repos/{owner}/{repo}/contents/{path}`), committing directly to the target branch.
-
-**How to run manually:**
-```bash
-git add Diabetes_Classification_Lab.ipynb
-git commit -m "Add Diabetes Classification ML Lab"
-git push origin final
-```
-
----
 
 ## 📊 Model Performance Summary
 
